@@ -1,1 +1,1 @@
-API construction for random words.
+API under construction for random words.
